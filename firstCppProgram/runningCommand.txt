@@ -1,0 +1,4 @@
+Command For compiling program: 
+g++ hello.cpp -o hello
+command for executing program:
+./hello
